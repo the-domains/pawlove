@@ -1,0 +1,14 @@
+layout_spectrum: 0.1937706
+typography_spectrum: 0.2914773
+color:
+  lightness: 0.4276596
+  brandStrength: 0.7048006
+  saturation: 0.5489362
+  rhythmicContrast: 0.5042553
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: PawLove
